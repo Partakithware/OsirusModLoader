@@ -235,7 +235,7 @@ Beginners learning Minecraft modding without complex frameworks
 
 Advanced users who prefer pure Java over bytecode manipulation
 
-Anyone tired of bloated frameworks and steep learning curves
+Anyone tired of bloated frameworks and steep learning curves (They do have more capabilities though)
 
 🛣️ Roadmap
 
