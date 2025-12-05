@@ -1,6 +1,6 @@
 ![Osirus Mod Loader](https://imgur.com/C9PqLXc.png)
 
-[![Downloads](https://img.shields.io/github/downloads/Partakithware/OsirusModLoader/total?style=flat&colorA=8a00ff&colorB=ff00f5)](https://github.com/Partakithware/OsirusModLoader/releases) ![PRs](https://img.shields.io/github/issues-pr/Partakithware/OsirusModLoader) ![PRs Closed](https://img.shields.io/github/issues-pr-closed/Partakithware/OsirusModLoader) ![Code Size](https://img.shields.io/github/languages/code-size/Partakithware/OsirusModLoader) ![Lines of Code](https://img.shields.io/tokei/lines/github/Partakithware/OsirusModLoader)
+[![Downloads](https://img.shields.io/github/downloads/Partakithware/OsirusModLoader/total?style=flat&colorA=8a00ff&colorB=ff00f5)](https://github.com/Partakithware/OsirusModLoader/releases) ![PRs](https://img.shields.io/github/issues-pr/Partakithware/OsirusModLoader) ![PRs Closed](https://img.shields.io/github/issues-pr-closed/Partakithware/OsirusModLoader)
 
 
 
