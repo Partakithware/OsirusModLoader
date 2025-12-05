@@ -1,6 +1,7 @@
 ![Osirus Mod Loader](https://imgur.com/C9PqLXc.png)
 
-[![Downloads](https://img.shields.io/github/downloads/Partakithware/OsirusModLoader/total?style=flat&colorA=2c00fc&colorB=8866fc)](https://github.com/Partakithware/OsirusModLoader/releases) ![PRs](https://img.shields.io/github/issues-pr/Partakithware/OsirusModLoader) ![PRs Closed](https://img.shields.io/github/issues-pr-closed/Partakithware/OsirusModLoader) ![Issues](https://img.shields.io/github/issues/Partakithware/OsirusModLoader?style=flat&color=ff0033) ![Issues Closed](https://img.shields.io/github/issues-closed/Partakithware/OsirusModLoader?style=flat&color=00ff66) ![Discord](https://discord.gg/cYUvvX8EVH)
+[![Downloads](https://img.shields.io/github/downloads/Partakithware/OsirusModLoader/total?style=flat&colorA=2c00fc&colorB=8866fc)](https://github.com/Partakithware/OsirusModLoader/releases) ![PRs](https://img.shields.io/github/issues-pr/Partakithware/OsirusModLoader) ![PRs Closed](https://img.shields.io/github/issues-pr-closed/Partakithware/OsirusModLoader) ![Issues](https://img.shields.io/github/issues/Partakithware/OsirusModLoader?style=flat&color=ff0033) ![Issues Closed](https://img.shields.io/github/issues-closed/Partakithware/OsirusModLoader?style=flat&color=00ff66) [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/cYUvvX8EVH)
+
 
 
 
