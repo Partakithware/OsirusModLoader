@@ -1,0 +1,26 @@
+{
+  "id": "1.21.11-pre5-osirus",
+  "inheritsFrom": "1.21.11-pre5_unobfuscated",
+  "releaseTime": "2024-12-04T00:00:00+00:00",
+  "time": "2024-12-04T00:00:00+00:00",
+  "type": "release",
+  "mainClass": "com.osirus.loader.Bootstrapper",
+  "libraries": [
+    {
+      "name": "io.github.classgraph:classgraph:4.8.165",
+      "url": "https://oss.sonatype.org/service/local/repositories/releases/content/io/github/classgraph/classgraph/4.8.180/classgraph-4.8.180.jar",
+      "downloads": {
+        "artifact": {
+          "size": 589509,
+          "sha1": "aaa09049cd621dfb742e844722c822a69d7f44bb",
+          "path": "io/github/classgraph/classgraph/4.8.180/classgraph-4.8.180.jar",
+          "url": "https://oss.sonatype.org/service/local/repositories/releases/content/io/github/classgraph/classgraph/4.8.180/classgraph-4.8.180.jar"
+        }
+      }
+    },
+    {
+      "name": "com.osirus:osirus-loader:1.0.0",
+      "url": "https://libraries.minecraft.net/"
+    }
+  ]
+}
