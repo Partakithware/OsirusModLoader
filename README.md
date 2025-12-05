@@ -1,5 +1,7 @@
 ![Osirus Mod Loader](https://imgur.com/C9PqLXc.png)
 
+[![Downloads](https://img.shields.io/github/downloads/Partakithware/OsirusModLoader/total?style=flat&colorA=8a00ff&colorB=ff00f5)](https://github.com/Partakithware/OsirusModLoader/releases)
+
 Looking to help? put in a PR, versions and code are per branch ex:(1.21.11-pre5) main will not have such.
 
 🔱 Osirus Loader
