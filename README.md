@@ -1,5 +1,7 @@
 ![Osirus Mod Loader](https://cdn.modrinth.com/data/cached_images/fe79b4bc588812317fc795c53982be440bddd299_0.webp)
 
+Looking to help? put in a PR, versions and code are per branch ex:(1.21.11-pre5) main will not have such.
+
 🔱 Osirus Loader
 A lightweight, transparent mod loader for Minecraft that just works.
 What Makes Osirus Different?
